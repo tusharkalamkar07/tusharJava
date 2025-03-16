@@ -39,5 +39,6 @@ public class client {
     	s.close();
     	sf.close();
     	System.out.println("Closed");
+    	System.out.println("Thank you");
     }
 }
